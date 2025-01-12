@@ -3,6 +3,8 @@
 ### Quick Links
   * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3YjBjODAtODg1Ni00NTI4LWI2YTctNGU1NzEzNjUxMGJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
   * [LinkedIn Post](https://www.linkedin.com/posts/badernader_business-insight-360-activity-7264969422296031232-T1a7?utm_source=share&utm_medium=member_desktop)
+  * [Presentation Video](https://youtu.be/4qEMS7RKdic)
+  * [Presentation File](https://youtu.be/4qEMS7RKdic)
 
 ### Table of Contents
 * [Company Details](#company-details)
