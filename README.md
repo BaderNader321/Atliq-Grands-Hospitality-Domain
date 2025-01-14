@@ -36,7 +36,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-### Approach and Methodology
+#### Approach and Methodology
 
 #### How We’ll Tackle This Project
 Here’s how we’ll approach the problem and turn the data into meaningful insights:
