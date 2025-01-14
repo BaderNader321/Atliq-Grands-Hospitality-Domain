@@ -9,7 +9,7 @@
 ### Table of Contents
 * [Company Details](#company-details)
 * [Project Overview](#project-overview)
-    * [Presentation](#presentation)
+    * [Business Problem](#business-problem)
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Business Related Terms](#business-related-terms)
