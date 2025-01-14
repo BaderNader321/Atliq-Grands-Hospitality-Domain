@@ -31,19 +31,24 @@
 Here’s how we’ll approach the problem and turn the data into meaningful insights:
 
 1. **Understanding the Business and Problem at Hand**
-   We’ll start by breaking down the business model to fully grasp its goals and challenges. This helps us clearly define the problem we’re solving, keeping everything focused and    aligned with what matters most.
+   We’ll start by breaking down the business model to fully grasp its goals and challenges. This helps us clearly define the problem we’re solving, keeping everything focused    
+   and aligned with what matters most.
 
 2. **Getting to Know the Data**
-   We’ll dive into the datasets to understand their structure, key details, and quality. This step includes cleaning and fixing any missing or inconsistent data to ensure we’re      working with accurate and reliable information.
+   We’ll dive into the datasets to understand their structure, key details, and quality. This step includes cleaning and fixing any missing or inconsistent data to ensure we’re  
+   working with accurate and reliable information.
 
 3. **Planning and Mockups**
-   We’ll map out the entire project with clear milestones, deadlines, and resources. To keep everyone on the same page, we’ll create a mockup of the dashboard that shows what the    final product will look like, helping us visualize how the insights will be presented.
+   We’ll map out the entire project with clear milestones, deadlines, and resources. To keep everyone on the same page, we’ll create a mockup of the dashboard that shows what  
+   the final product will look like, helping us visualize how the insights will be presented.
 
 4. **Building a Solid Data Foundation**
-   We’ll organize the data using a star schema, a simple structure that makes storing and analyzing information more efficient. This ensures we can quickly and effectively answer    any key questions.
+   We’ll organize the data using a star schema, a simple structure that makes storing and analyzing information more efficient. This ensures we can quickly and effectively   
+   answer any key questions.
 
 5. **Applying Advanced Analysis**
-   We’ll use advanced techniques like [add relevant examples, e.g., machine learning, statistical modeling] to dig deeper into the data and uncover patterns or trends. The tools     we choose will depend on the type of data and the questions we’re answering.
+   We’ll use advanced techniques to dig deeper into the data and uncover patterns or trends. The tools we choose will depend on the type of data and the questions we’re  
+   answering.
 
 6. **Designing the Dashboard**
    The dashboard will be crafted with care to ensure it’s user-friendly, interactive, and visually appealing. It will be customized to the audience’s needs, making it easy to   
@@ -57,24 +62,22 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 
 #### Business Related Terms 
 
-1. **Revenue:** To get the total revenue_realized
-2. **Occupancy:** Occupancy means total successful bookings happened to the total rooms available(capacity)
-3. **Average Rating:**	Get the average ratings given by the customers
-4. **Total cancelled bookings:**	To get the "Cancelled" bookings out of all Total bookings happened
-5. **Cancellation %:** calculating the cancellaton percentage.
-6. **Total Checked Out:**	To get the successful 'Checked out' bookings out of all Total bookings happened
-7. **Total No Show Bookings:**	"To get the""No Show"" bookings out of all Total bookings happened ("No show"" means those customers who neither cancelled nor attend to their   
-   booked rooms)
-8. **No Show rate %:**	calculating the no show percentage.
-9. **ADR (Average Daily rate):** It is the ratio of revenue to the total rooms booked/sold. It is the measure of the average paid for rooms sold in a given time period.
-10. **Realisation %:**	calculate  the realisation percentage. It is nothing but the succesful ""checked out"" percentage over all bookings happened.
-11. **RevPAR (Revenue Per Available Room):** RevPAR represents the revenue generated per available room, whether or not they are occupied. RevPAR helps hotels measure their   
-    revenue generating performance to accurately price rooms.
-12. **DBRN	(Daily Booked Room Nights):** This metrics tells on average how many rooms are booked for a day considering a time period.
-13. **DSRN	(Daily Sellable Room Nights):** This metrics tells on average how many rooms are ready to sell for a day considering a time period.
-14. **DURN	(Daily Utilized Room Nights):** This metric tells on average how many rooms are succesfully utilized by customers for a day considering a time period.
-15. **Bookings:** To get the total number of bookings happened
-16. **Total Successful Bookings:** To get the total succesful bookings happened for all hotels
+1. **Revenue:** This metric measures the overall revenue earned by the hospitality business.
+2. **Occupancy:** It indicates how effectively the available room inventory is utilized.
+3. **Average Rating:** This metric reflects customer satisfaction and service quality.
+4. **Total Cancelled Bookings:** It provides insight into customer behavior and potential issues leading to cancellations.
+5. **Cancellation %:** This metric helps assess the rate at which bookings are canceled.
+6. **Total Checked Out:** It measures the successful fulfillment of bookings.
+7. **Total No Show Bookings:** This metric highlights cases of unutilized bookings despite prior reservations.
+8. **No Show Rate %:** It helps identify the proportion of unutilized bookings.
+9. **ADR (Average Daily Rate):** This metric evaluates the average price paid for rooms sold.
+10. **Realization %:** It measures the success rate of completed stays relative to bookings.
+11. **RevPAR (Revenue Per Available Room):** It assesses the efficiency of revenue generation from room inventory.
+12. **DBRN (Daily Booked Room Nights):** It indicates daily booking activity trends.
+13. **DSRN (Daily Sellable Room Nights):** This metric highlights the daily sellable inventory of rooms.
+14. **DURN (Daily Utilized Room Nights):** It measures how many rooms were effectively occupied daily.
+15. **Bookings:** It reflects the overall booking volume for the business.
+16. **Total Successful Bookings** This metric provides an overview of fulfilled reservations.
 
 #### Technical Details 
 
