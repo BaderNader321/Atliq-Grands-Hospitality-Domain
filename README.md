@@ -157,3 +157,23 @@ As part of Codebasics' Resume Project Challenge Round 2, I developed four dashbo
 4. **Booking Insights:** This dashboard provides insights into booking dynamics, including booking patterns, status distributions, and revenue generated/realized, to refine  
    booking strategies and optimize room utilization.
 
+#### Home Page
+<br>
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-1.png" class="center">
+
+#### Performance Overview
+<br>
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-2.png" class="center">
+
+#### Further Analysis
+<br>
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-3.png" class="center">
+
+#### Revenue Insights
+<br>
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-4.png" class="center">
+
+#### Booking Insights
+<br>
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-5.png" class="center">
+
