@@ -19,11 +19,11 @@
 * [Data Modelling](#data-modelling)
 * [Dashboards](#dashboards)
 
-### Company Details
+## Company Details
 
-### Project Overview
+## Project Overview
 
-#### Business Problem 
+### Business Problem 
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
 
@@ -36,9 +36,8 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create a dashboard according to the mock-up provided by stakeholders.
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
-#### Approach and Methodology
+### Approach and Methodology
 
-#### How We’ll Tackle This Project
 Here’s how we’ll approach the problem and turn the data into meaningful insights:
 
 1. **Understanding the Business and Problem at Hand**
@@ -69,9 +68,9 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
    At the end, we’ll present actionable recommendations backed by evidence. These insights will be shared in a straightforward way, ensuring everyone—regardless of their    
    technical expertise—can understand and act on the findings.
 
-#### Key Insights and Outcomes 
+### Key Insights and Outcomes 
 
-#### Business Related Terms 
+### Business Related Terms 
 
 1. **Revenue:** This metric measures the overall revenue earned by the hospitality business.
 2. **Occupancy:** It indicates how effectively the available room inventory is utilized.
@@ -90,11 +89,11 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 15. **Bookings:** It reflects the overall booking volume for the business.
 16. **Total Successful Bookings** This metric provides an overview of fulfilled reservations.
 
-#### Technical Details 
+### Technical Details 
 
-#### Key Learnings 
+### Key Learnings 
 
-### Understanding the Datasets
+## Understanding the Datasets
 
 This datasets contains all the meta information regarding the columns described in the CSV files. Codebasics has provided 5 CSV files:
 1. dim_date
@@ -103,30 +102,30 @@ This datasets contains all the meta information regarding the columns described 
 4. fact_aggregated_bookings
 5. fact_bookings
 
-##### Column Description for dim_date:
+#### Column Description for dim_date:
 1. **date:** This column represents the dates present in May, June and July.
 2. **mmm yy:** This column represents the date in the format of mmm yy (monthname year).
 3. **week no:** This column represents the unique week number for that particular date.
 4. **day_type:** This column represents whether the given day is Weekend or Weekeday.
 
-##### Column Description for dim_hotels:
+#### Column Description for dim_hotels:
 1. **property_id:** This column represents the Unique ID for each of the hotels.
 2. **property_name:** This column represents the name of each hotel.
 3. **category:** This column determines which class[Luxury, Business] a particular hotel/property belongs to. 
 4. **city:** This column represents where the particular hotel/property resides in.
 
-##### Column Description for dim_rooms:
+#### Column Description for dim_rooms:
 1. **room_id:** This column represents the type of room[RT1, RT2, RT3, RT4] in a hotel.
 2. **room_class:** This column represents to which class[Standard, Elite, Premium, Presidential] particular room type belongs.
 
-##### Column Description for fact_aggregated_bookings:
+#### Column Description for fact_aggregated_bookings:
 1. **property_id:** This column represents the Unique ID for each of the hotels.
 2. **check_in_date:** This column represents all the check_in_dates of the customers.
 3. **room_category:** This column represents the type of room[RT1, RT2, RT3, RT4] in a hotel.
 4. **successful_bookings:** This column represents all the successful room bookings that happen for a particular room type in that hotel on that particular date.
 5. **capacity:** This column represents the maximum count of rooms available for a particular room type in that hotel on that particular date.
 
-##### Column Description for fact_bookings:
+#### Column Description for fact_bookings:
 1. **booking_id:** This column represents the Unique Booking ID for each customer when they booked their rooms.
 2. **property_id:** This column represents the Unique ID for each of the hotels
 3. **booking_date:** This column represents the date on which the customer booked their rooms.
@@ -141,11 +140,11 @@ This datasets contains all the meta information regarding the columns described 
 11. **revenue_generated:** This column represents the amount of money generated by the hotel from a particular customer.
 12. **revenue_realized:** This column represents the final amount of money that goes to the hotel based on booking status. If the booking status is cancelled, then 40% of the        revenue generated is deducted and the remaining is refunded to the customer. If the booking status is Checked Out/No show, then full revenue generated will goes to hotels.
 
-### Data Modelling
+## Data Modelling
 
 <img src="" class="center">
 
-### Dashboards
+## Dashboards
 
 As part of Codebasics' Resume Project Challenge Round 2, I developed four dashboards using a dataset comprising five tables (two dimension and two fact tables). The data spans from May 1st to July 31st, 2022, These dashboards provide insights into Performance Overview, Further Analysis Revenue, and Booking trends.
 
@@ -157,23 +156,23 @@ As part of Codebasics' Resume Project Challenge Round 2, I developed four dashbo
 4. **Booking Insights:** This dashboard provides insights into booking dynamics, including booking patterns, status distributions, and revenue generated/realized, to refine  
    booking strategies and optimize room utilization.
 
-#### Home Page
+### Home Page
 <br>
 <img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-1.png" class="center">
 
-#### Performance Overview
+### Performance Overview
 <br>
 <img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-2.png" class="center">
 
-#### Further Analysis
+### Further Analysis
 <br>
 <img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-3.png" class="center">
 
-#### Revenue Insights
+### Revenue Insights
 <br>
 <img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-4.png" class="center">
 
-#### Booking Insights
+### Booking Insights
 <br>
 <img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/a9de0c3b521f38cab61d14d223e6e01cecfda72a/Files/Images/AtliQ%20Grands_Hospitality%20Domain-5.png" class="center">
 
