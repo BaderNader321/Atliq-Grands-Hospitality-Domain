@@ -21,6 +21,8 @@
 
 ## Company Details
 
+**Atliq Grands**, a leading hospitality group with over two decades of experience, operates a chain of prestigious five-star hotels across India. Their portfolio includes Atliq Bay, Atliq City, Atliq Exotica, Atliq Grands, Atliq Palace, and Atliq Seasons, strategically located in four major metropolitan cities: Bangalore, Mumbai, Hyderabad, and Delhi.
+
 ## Project Overview
 
 ### Business Problem 
