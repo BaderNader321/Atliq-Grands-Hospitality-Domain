@@ -146,7 +146,7 @@ This datasets contains all the meta information regarding the columns described 
 
 ## Data Modelling
 
-<img src="" class="center">
+<img src="https://github.com/BaderNader321/Atliq-Grands-Hospitality-Domain/blob/21d42417fc9a400c5f79c6c0d10394051b001f6a/Solutions/AtliQ%20Grands%20Data%20Model.png" class="center">
 
 ## Dashboards
 
