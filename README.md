@@ -74,6 +74,9 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 
 ### Key Insights and Outcomes 
 
+#### Performance Overview Section 
+[Link](#performance-overview)
+
 #### Further Analysis Section 
 [Link](#further-analysis)
 
@@ -185,6 +188,72 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 - Continue investing in online channels and digital marketing to capture a larger share of the online travel market.
 - Develop targeted strategies to improve revenue generation in Delhi.
 - Design attractive weekend packages and promotions to increase weekend occupancy and revenue.
+
+#### Booking Insights
+[Link](#booking-insights)
+
+##### Overall Performance
+
+  - **Total Capacity:** 75.84K (This represents the total available room nights)
+  - **Total Bookings:** 43.37K (Overall booking volume)
+  - **Total Checked Out:** 30.60K (Completed stays)
+  - **Total Cancelled Bookings:** 10.62K (Significant cancellations)
+  - **Total No-Show Bookings:** 2.15K (Lost revenue from no-shows)
+  - **Overall Occupancy Rate:** Approximately 57.2% (Calculated as Total Bookings / Total Capacity)
+
+##### Booking Insights by Dimension
+
+1. Bookings by Day Type
+
+  - **Weekday Dominance:** The majority of bookings (63.62% or 28K) are for weekdays, indicating business travel or weekday events as primary demand drivers.
+  - **Weekend Bookings:** Weekends account for a smaller portion (36.38% or 16K) of total bookings.
+
+2. Bookings by Booking Platforms
+
+  - **Offline Dominance:** Direct offline bookings are the highest (17.75K), suggesting strong reliance on traditional booking methods.
+  - **Online Channels:** Among online platforms, "others" category leads (8.61K), followed by MakeYourTrip (4.78K) and LogTrip (4.39K).
+  - **Lowest Online Contribution:** Tripster and Journey platforms contribute the least to online bookings.
+
+3. Bookings by Cities
+
+  - **Top Cities:** Mumbai (14.04K) and Hyderabad (10.30K) are the top booking sources.
+  - **Lowest Contributor:** Delhi (7.80K) generates the lowest number of bookings among the listed cities.
+
+4. Revenue Generated & Realized by Booking Status
+
+  - **Checked Out Revenue:** The highest revenue is associated with checked-out bookings, as expected.
+  - **Cancelled & No-Show Revenue:** A significant amount of revenue is lost due to cancellations (32M) and no-shows (12M).
+  - **Note:** It would be helpful to see the actual revenue figures for checked-out bookings to understand the full financial picture.
+
+5. Bookings by Hotels
+
+  - **Top Performers:** AtliQ Palace and AtliQ Exotica lead in total bookings.
+  - **Lowest Contributor:** AtliQ Seasons has the lowest booking volume.
+
+6. Bookings by Room Class
+
+  - **Popular Room Class:** Elite rooms are the most booked (15.95K).
+  - **Lowest Booked Room Class:** Presidential suites have the lowest booking volume (5.18K).
+
+##### Key Observations and Potential Areas for Improvement
+
+  - **High Cancellation Rate:** The 10.62K cancellation rate is a significant concern and needs further investigation. Understanding the reasons for cancellations (e.g., pricing, events, customer experience) is essential.
+  - **No-Show Impact:** The 2.15K no-shows represent lost revenue and potential opportunities for optimization (e.g., stricter no-show policies or pre-payment options).
+  - **Weekend Demand:** Strategies are needed to boost weekend occupancy. Targeted promotions, events, or packages could attract weekend guests.
+  - **Offline Reliance:** While offline bookings are currently strong, it's crucial to continue growing online channels to capture the increasing digital travel market.
+  - **Delhi Performance:** The lower bookings from Delhi require further analysis to understand the local market dynamics and competition.
+  - **AtliQ Seasons Performance:** The low booking volume for AtliQ Seasons warrants a review of its offerings, pricing, and marketing strategies.
+  - **Presidential Suite Occupancy:** The low bookings for Presidential suites suggest a potential need to review pricing or enhance marketing efforts for this premium category.
+
+##### Recommendations
+
+  - **Cancellation Analysis:** Conduct a thorough analysis to understand the reasons behind high cancellations and implement preventive measures.
+  - **No-Show Policy Review:** Evaluate and potentially strengthen no-show policies to minimize revenue loss.
+  - **Weekend Promotions:** Develop targeted promotions and packages to attract more weekend guests.
+  - **Online Channel Development:** Continue investing in online channels and digital marketing to diversify booking sources.
+  - **Delhi Market Analysis:** Conduct market research to understand the dynamics of the Delhi market and develop targeted strategies.
+  - **AtliQ Seasons Review:** Review the offerings and marketing strategies for AtliQ Seasons to improve its booking volume.
+  - **Presidential Suite Marketing:** Enhance marketing efforts and potentially review pricing for Presidential suites to increase demand.
 
 ### Business Related Terms 
 
