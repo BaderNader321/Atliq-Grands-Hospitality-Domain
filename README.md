@@ -77,6 +77,38 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 #### Performance Overview Section 
 [Link](#performance-overview)
 
+##### Key Metrics Overview
+
+  - **ADR (Average Daily Rate):** The average price paid for occupied rooms per day.
+  - **Realisation %:** The percentage of potential revenue that was actually realized.
+  - **RevPar (Revenue Per Available Room):** A key metric indicating how effectively a hotel is filling its rooms at a profitable rate.
+  - **Occupancy %:** The percentage of available rooms occupied.
+  - **Cancellation %:** The percentage of bookings canceled.
+
+##### Performance Insights
+
+  - **Overall Revenue:** The total revenue is 551.90M, with a slight decrease of 0.37% compared to the previous period (PM: 553.93M). This slight decline warrants further investigation to understand the contributing factors.
+  - **ADR (Average Daily Rate):** The ADR is 12.72K, showing a slight increase of 0.34% (PM: 12.68K). This suggests that, on average, the hotel was able to charge slightly higher rates compared to the previous period.
+  - **Realisation %:** The realization rate is 70.56%, with a slight improvement of 0.72% (PM: 70.05%). This indicates that the hotel is realizing a slightly higher percentage of its potential revenue.
+  - **Trends Over Time (Weeks 27-31):**
+    - **ADR & RevPar:** Both ADR and RevPar show fluctuating trends across the weeks. There is a noticeable dip in week 29 for both metrics, which requires further investigation to understand the underlying causes (e.g., seasonal factors, events, or specific issues during that week).
+    - **Occupancy & Cancellation %:** Occupancy and cancellation rates also show fluctuations across the weeks. A spike in cancellations during week 30 corresponds with the dip in ADR and RevPar, suggesting a possible correlation.
+
+##### Key Observations and Potential Areas for Investigation
+
+  - **Revenue Decline:** The slight decline in overall revenue needs to be investigated to understand the reasons behind it. Was it due to lower occupancy, lower ADR, or a combination of factors?
+  - **Week 29 Dip:** The significant drop in ADR and RevPar during week 29 requires immediate attention to understand the root cause and implement corrective measures. Was it due to a drop in demand, special promotions, or other factors?
+  - **Week 30 Cancellation Spike:** The increase in cancellations during week 30, coinciding with the week 29 dip, suggests a potential connection. Were there specific events or issues during that week that led to increased cancellations?
+  - **Fluctuations in Trends:** The fluctuations in ADR, RevPar, Occupancy, and Cancellations across the weeks indicate potential seasonality or other factors at play. Analyzing historical data and market trends would provide a better understanding.
+
+## Recommendations
+
+  - **Revenue Analysis:** Conduct a detailed analysis of revenue by segment (e.g., room type, customer segment) to identify areas of weakness and opportunities for improvement.
+  - **Week 29 Investigation:** Conduct a thorough investigation of week 29 performance to identify and address the factors contributing to the revenue decline and implement preventive measures to avoid similar occurrences in the future.
+  - **Cancellation Analysis:** Analyze the reasons for cancellations, particularly the spike in week 30, and implement measures to minimize cancellations.
+  - **Trend Analysis:** Analyze historical data and market trends to understand the fluctuations in key metrics and develop strategies to optimize performance during peak and off-peak seasons.
+  - **Market Research:** Conduct market research to understand customer preferences and demand patterns, which can inform pricing and marketing strategies.
+
 #### Further Analysis Section 
 [Link](#further-analysis)
 
