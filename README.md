@@ -109,6 +109,8 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
   - **Trend Analysis:** Analyze historical data and market trends to understand the fluctuations in key metrics and develop strategies to optimize performance during peak and off-peak seasons.
   - **Market Research:** Conduct market research to understand customer preferences and demand patterns, which can inform pricing and marketing strategies.
 
+***
+
 #### Further Analysis Section 
 [Link](#further-analysis)
 
@@ -159,12 +161,10 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
    demand.
 4. **Overall:** Regularly monitor and analyze these metrics to identify trends and make data-driven decisions to optimize revenue and guest satisfaction.
 
+***
+
 #### Revenue Insights Section 
 [Link](#revenue-insights)
-
-##### Key Metrics Overview
-
- - **Revenue:** The primary metric being analyzed, segmented by different categories.
 
 ##### Insights by Revenue Dimensions
 
@@ -220,6 +220,8 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 - Continue investing in online channels and digital marketing to capture a larger share of the online travel market.
 - Develop targeted strategies to improve revenue generation in Delhi.
 - Design attractive weekend packages and promotions to increase weekend occupancy and revenue.
+
+***
 
 #### Booking Insights
 [Link](#booking-insights)
