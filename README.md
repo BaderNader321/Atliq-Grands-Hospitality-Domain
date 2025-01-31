@@ -101,7 +101,7 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
   - **Week 30 Cancellation Spike:** The increase in cancellations during week 30, coinciding with the week 29 dip, suggests a potential connection. Were there specific events or issues during that week that led to increased cancellations?
   - **Fluctuations in Trends:** The fluctuations in ADR, RevPar, Occupancy, and Cancellations across the weeks indicate potential seasonality or other factors at play. Analyzing historical data and market trends would provide a better understanding.
 
-## Recommendations
+##### Recommendations
 
   - **Revenue Analysis:** Conduct a detailed analysis of revenue by segment (e.g., room type, customer segment) to identify areas of weakness and opportunities for improvement.
   - **Week 29 Investigation:** Conduct a thorough investigation of week 29 performance to identify and address the factors contributing to the revenue decline and implement preventive measures to avoid similar occurrences in the future.
