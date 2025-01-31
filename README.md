@@ -79,45 +79,50 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 
 ##### Key Metrics Overview:
 
-**Average Rating:** A measure of guest satisfaction.
-**RevPar (Revenue Per Available Room):** A key metric indicating how effectively a hotel is filling its rooms at a profitable rate.
-**Occupancy %:** The percentage of available rooms occupied.
-**Cancellation %:** The percentage of bookings canceled.
+1. **Average Rating:** A measure of guest satisfaction.
+2. **RevPar (Revenue Per Available Room):** A key metric indicating how effectively a hotel is filling its rooms at a profitable rate.
+3. **Occupancy %:** The percentage of available rooms occupied.
+4. **Cancellation %:** The percentage of bookings canceled.
 
 ##### Insights by Room Class:
 
-**Average Rating:** Presidential suites have a higher average rating compared to other room classes. Standard rooms have a comparatively lower average rating.
-**RevPar:** Presidential suites generate the highest RevPar. Standard rooms have the lowest RevPar.
-**Occupancy %:** Standard rooms exhibit the highest occupancy rate. Presidential suites have the lowest occupancy rate.
-**Cancellation %:** Presidential suites experience the highest cancellation rate. Standard and Elite rooms share the lowest cancellation rate.
+1. **Average Rating:** Presidential suites have a higher average rating compared to other room classes. Standard rooms have a comparatively lower average rating.
+2. **RevPar:** Presidential suites generate the highest RevPar. Standard rooms have the lowest RevPar.
+3. **Occupancy %:** Standard rooms exhibit the highest occupancy rate. Presidential suites have the lowest occupancy rate.
+4. **Cancellation %:** Presidential suites experience the highest cancellation rate. Standard and Elite rooms share the lowest cancellation rate.
 
 ##### Insights by City:
 
-**Average Rating:** Delhi has the highest average rating among the cities. Bangalore shows a comparatively lower average rating.
-**RevPar:** Mumbai leads in RevPar generation. Bangalore has the lowest RevPar.
-**Occupancy %:** Mumbai demonstrates the highest occupancy rate. Bangalore has the lowest occupancy rate.
-**Cancellation %:** Hyderabad experiences the highest cancellation rate. Bangalore has the lowest cancellation rate.
+1. **Average Rating:** Delhi has the highest average rating among the cities. Bangalore shows a comparatively lower average rating.
+2. **RevPar:** Mumbai leads in RevPar generation. Bangalore has the lowest RevPar.
+3. **Occupancy %:** Mumbai demonstrates the highest occupancy rate. Bangalore has the lowest occupancy rate.
+4. **Cancellation %:** Hyderabad experiences the highest cancellation rate. Bangalore has the lowest cancellation rate.
 
 ##### Overall Performance Observations:
 
-**Presidential Suites:** While they command the highest RevPar and a good average rating, they have the lowest occupancy and the highest cancellation rate. This suggests a potential need to review pricing strategies or marketing to attract more guests to this premium offering or understand the reasons for high cancellations.
+1. **Presidential Suites:** While they command the highest RevPar and a good average rating, they have the lowest occupancy and the highest cancellation rate. This suggests a 
+   potential need to review pricing strategies or marketing to attract more guests to this premium offering or understand the reasons for high cancellations.
 
-**Standard Rooms:** Despite having the lowest average rating and RevPar, they have the highest occupancy and low cancellation rates. This indicates a steady demand for budget-friendly options, but there might be opportunities to enhance guest experience and potentially increase pricing.
+2. **Standard Rooms:** Despite having the lowest average rating and RevPar, they have the highest occupancy and low cancellation rates. This indicates a steady demand for 
+   budget-friendly options, but there might be opportunities to enhance guest experience and potentially increase pricing.
 
-**Mumbai:** Consistently performs well across all metrics (high RevPar, occupancy, and a decent average rating). This suggests a strong market presence in Mumbai.
+3. **Mumbai:** Consistently performs well across all metrics (high RevPar, occupancy, and a decent average rating). This suggests a strong market presence in Mumbai.
 
-**Bangalore:** Shows relatively weaker performance across most metrics (low RevPar, average rating, and occupancy). This might warrant further investigation into local market dynamics and competition.
+4. **Bangalore:** Shows relatively weaker performance across most metrics (low RevPar, average rating, and occupancy). This might warrant further investigation into local market 
+   dynamics and competition.
 
 ##### Additional Considerations:
 
-**Weekdays vs. Weekends:** The data shows fluctuations in occupancy and other metrics between weekdays and weekends. This is typical for hotels and should be factored into pricing and staffing strategies.
+* **Weekdays vs. Weekends:** The data shows fluctuations in occupancy and other metrics between weekdays and weekends. This is typical for hotels and should be factored into pricing and staffing strategies.
 
 ##### Recommendations:
 
-**Presidential Suites:** Investigate the high cancellation rate. Consider targeted promotions or packages to improve occupancy. Analyze pricing compared to competitors.
-Standard Rooms: Explore ways to improve guest satisfaction, potentially through minor upgrades or enhanced services. Evaluate if a slight price increase could be justified.
-Bangalore Market: Conduct a competitive analysis to understand why performance is lagging. Explore local partnerships or marketing initiatives to boost visibility and demand.
-Overall: Regularly monitor and analyze these metrics to identify trends and make data-driven decisions to optimize revenue and guest satisfaction.
+1. **Presidential Suites:** Investigate the high cancellation rate. Consider targeted promotions or packages to improve occupancy. Analyze pricing compared to competitors.
+2. **Standard Rooms:** Explore ways to improve guest satisfaction, potentially through minor upgrades or enhanced services. Evaluate if a slight price increase could be 
+   justified.
+3. **Bangalore Market:** Conduct a competitive analysis to understand why performance is lagging. Explore local partnerships or marketing initiatives to boost visibility and 
+   demand.
+4. **Overall:** Regularly monitor and analyze these metrics to identify trends and make data-driven decisions to optimize revenue and guest satisfaction.
 
 #### Revenue Insights Section 
 [Link](#revenue-insights)
