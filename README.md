@@ -1,4 +1,4 @@
-# Atliq-Grands-Hospitality-Domain
+# Atliq Grands Hospitality Domain
 
 ### Quick Links
   * [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzc3YjBjODAtODg1Ni00NTI4LWI2YTctNGU1NzEzNjUxMGJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -15,7 +15,6 @@
     * [Approach & Methodology](#approach-and-methodology)
     * [Key Insights & Outcomes](#key-insights-and-outcomes)
     * [Business Related Terms](#business-related-terms)
-    * [Technical Details](#technical-details)
     * [Key Learnings](#key-learnings)
 * [Understanding the Datasets](#understanding-the-datasets)
 * [Data Modelling](#data-modelling)
@@ -308,9 +307,24 @@ Here’s how we’ll approach the problem and turn the data into meaningful insi
 15. **Bookings:** It reflects the overall booking volume for the business.
 16. **Total Successful Bookings** This metric provides an overview of fulfilled reservations.
 
-### Technical Details 
-
 ### Key Learnings 
+Working on this project was a great hands-on experience in data analysis, from understanding the business problem to delivering insights through dashboards. Here are some of the biggest takeaways:
+
+1. **Understanding the Business First:** Before jumping into the data, I had to fully understand how the hotel industry works, what metrics matter (like RevPAR and ADR), and why Atliq Grands was struggling. This helped me stay focused on solving real problems instead of just crunching numbers.
+
+2. **Data Cleaning is Crucial:** The raw data wasn’t perfect. I had to deal with missing values, inconsistent formats, and some duplicates. This reinforced how important data cleaning is—bad data leads to bad insights.
+
+3. **The Power of Data Modeling:** I used a star schema to organize the data, which made it easier to build relationships between tables and extract insights efficiently. Learning how to structure data properly made my analysis much smoother.
+
+4. **Building Interactive Dashboards:** Creating the dashboard wasn’t just about placing charts on a page. I had to think about user experience—what’s the most important info, how should it be displayed, and what filters would make it easier for stakeholders to explore the data themselves?
+
+5. **Identifying Key Trends:** I noticed patterns like the revenue drop in Week 29 and the high cancellation rate for Presidential Suites. These weren’t just random numbers—they told a story about what was happening in the business. Recognizing these trends helped me provide useful recommendations.
+
+6. **Importance of Storytelling with Data:** Presenting insights isn’t just about showing numbers; it’s about telling a story that makes sense to decision-makers. I had to make sure my insights were clear, actionable, and backed by data.
+
+7. **Asking the Right Questions:** Throughout the project, I kept questioning the data. Why did revenue drop in a certain week? Why are some room types performing better than others? This mindset helped me dig deeper instead of just accepting surface-level insights.
+
+This project helped me connect the dots between data and business strategy, and it showed me how powerful data analytics can be in solving real-world problems!
 
 ## Understanding the Datasets
 
